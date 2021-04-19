@@ -13,5 +13,10 @@ namespace _2021MidSample
 		{
 
 		}
-	}
+
+        protected System.Void ddl_Area_SelectedIndexChanged(System.Object sender, System.EventArgs e)
+        {
+
+        }
+    }
 }
